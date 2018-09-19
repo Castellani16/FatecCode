@@ -4,7 +4,7 @@ int main()
 {
     int operacao;
     float a,b,produto;
-    
+    a
     printf("Escolha a operacao que deseja = \n");
     printf("0 para *mult | 1 para /div = \n");
     scanf("%d", &operacao);
@@ -28,3 +28,5 @@ int main()
         }
     return 0;
 }
+kjokjdfjlkdsjlkfdslkjflkds
+fsdkjdsk
